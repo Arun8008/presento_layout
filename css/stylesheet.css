@@ -1,0 +1,214 @@
+/*------head------*/
+.head-sec{
+	background-color: #777;
+    padding: 20px 0;
+}
+.head-info{
+	background-color: #e03a3c;
+    height:40px;
+}
+.nav{
+	background-color: #e03a3c;
+    height:40px;
+}
+.head-btn{
+	background-color: #e03a3c;
+    height:40px;
+}
+/*------banner------*/
+.banner-sec{
+	background-color:#000;
+	padding:100px 0;
+}
+.banner-info{
+	background-color:#e03a3c;
+	height:500px
+}
+/*------logo------*/
+.logo-sec{
+	background-color:#111;
+}
+.logo-info{
+	background-color:#e03a3c;
+	height:50px;
+}
+/*------About------*/
+.abt-sec{
+	position:relative;
+}
+.abt-sec:after{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	transform:skewY(-3deg);
+	background-color:#ccc;
+    z-index:-1;
+}
+.abt-info{
+	background-color:#111;
+	height:400px;
+}
+.abt-content{
+	background-color:#e03a3c;
+	height:180px;
+}
+/*------icon------*/
+.icon-sec{
+	background-color:#fff;
+}
+.icon-info{
+	background-color:#e03a3c;
+	height:80px;
+}
+/*------tabs------*/
+.tab-sec{
+	background-color:#000;
+}
+.tab-info{
+	background-color:#e03a3c;
+	height:100px;
+}
+.tab-content{
+	background-color:#e03a3c;
+	height:400px;
+}
+/*------service------*/
+.service-sec{
+	position:relative;
+}
+.service-sec:after{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	transform:skewY(-3deg);
+	background-color:#ccc;
+    z-index:-1;
+}
+.service-info{
+	background-color:#111;
+	height:100px;
+}
+.service-content{
+	background-color:#e03a3c;
+	height:180px;
+}
+/*------portfolio------*/
+.portfolio-sec{
+	background-color:#000;
+}
+.portfolio-info{
+	background-color:#e03a3c;
+	height:100px;
+}
+.portfolio-content{
+	background-color:#e03a3c;
+	height:400px;
+}
+/*------TESTIMONIALS------*/
+.testimonials-sec{
+	background-color:#000;
+}
+.testimonials-info{
+	background-color:#e03a3c;
+	height:100px;
+}
+.testimonials-content{
+	background-color:#e03a3c;
+	height:400px;
+}
+/*------Pricing------*/
+.pricing-sec{
+	position:relative;
+}
+.pricing-sec:after{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	transform:skewY(-3deg);
+	background-color:#ccc;
+    z-index:-1;
+}
+.pricing-info{
+	background-color:#111;
+	height:100px;
+}
+.pricing-content{
+	background-color:#e03a3c;
+	height:500px;
+}
+/*------Faq------*/
+.faq-sec{
+	background-color:#000;
+}
+.faq-info{
+	background-color:#e03a3c;
+	height:120px;
+}
+.faq-content{
+	background-color:#e03a3c;
+	height:50px;
+}
+/*------team------*/
+.team-sec{
+	position:relative;
+}
+.team-sec:after{
+	content:"";
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	transform:skewY(-3deg);
+	background-color:#ccc;
+    z-index:-1;
+}
+.team-info{
+	background-color:#111;
+	height:100px;
+}
+.team-content{
+	background-color:#e03a3c;
+	height:400px;
+}
+/*------contact------*/
+.contact-sec{
+	background-color:#000;
+}
+.contact-info{
+	background-color:#e03a3c;
+	height:120px;
+}
+.contact-content{
+	background-color:#e03a3c;
+	height:150px;
+}
+.contact-form{
+	background-color:#e03a3c;
+	height:350px;
+}
+/*-----footer-top-------*/
+.footer-top-sec{
+	background-color:#fff;
+}
+.footer-top-content{
+	background-color:#e03a3c;
+	height:350px;
+}
+/*-----footer-top-------*/
+.footer-sec{
+	background-color:#000;
+}
+.footer-content{
+	background-color:#e03a3c;
+	height:50px;
+}
